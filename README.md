@@ -1,2 +1,1 @@
-# lifeos-releases
-lifeos desktop releases
+Release files for the lifeos desktop app. Installed copies update from here.
